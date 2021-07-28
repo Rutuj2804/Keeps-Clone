@@ -1,0 +1,12 @@
+.header{
+    width: 100%;
+    box-shadow: 2px 2px 2px #efefef;
+    padding: 5px 50px;
+    display: flex;
+    align-items: center;
+}
+img{
+    height: 50px;
+     width: auto;
+     margin-right: 7px;
+}
